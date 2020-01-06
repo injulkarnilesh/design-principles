@@ -1,6 +1,6 @@
 # Single Responsibility Principle
 
-This is a simple, important yet most missed design principles. This is about defining responsibilities of code units like Classes or Modules.
+This is a simple, important yet most missed design principle. This is about defining responsibilities of code units like Classes or Modules.
 
 In simple words, this principle states that a code unit, Eg. Class should have a single responsibility. This is very vague statement.
 
