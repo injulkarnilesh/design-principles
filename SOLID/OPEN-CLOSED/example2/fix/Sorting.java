@@ -1,4 +1,5 @@
+import java.util.Collection;
 
 public interface Sorting {
-    void sort(Iterable<Comparable> input);
+    void sort(Collection<Comparable> input);
 }

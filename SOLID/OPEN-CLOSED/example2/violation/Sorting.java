@@ -1,5 +1,6 @@
+import java.util.Collection;
 
 public interface Sorting {
-    void sortStrings(Iterable<String> input);
-    void sortNumbers(Iterable<Number> input);
+    void sortStrings(Collection<String> input);
+    void sortNumbers(Collection<Number> input);
 }
