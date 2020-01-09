@@ -8,7 +8,7 @@ This can be stated as:
 
 At class level, higher level classes are the ones which depend on services provided by other classes and these classes providing the services are refered to as lowe level classes. When such a is the case, the higher level modules should not depend on lower level modules directly.
 
-This direct dependency could be in the form of instantiation of lower level implementation classes inside the higher level classes. This instantiation can be taken out of the higher level classes by Dependency Injection by injecting those dependencies preferebly through contructor.
+This direct dependency could be in the form of instantiation of lower level implementation classes inside the higher level classes. This instantiation can be taken out of the higher level classes by Dependency Injection by injecting those dependencies preferably through constructor.
 
 To take this decoupling to next level, the higher level classes should not depend on lower level class details even at compile time. To achieve this we add abstraction level between these higher level and lower level modules, could be in the form of interfaces. Then higher level classes depend on these abstraction interfaces and lower level classes also depend on these abstraction interfaces. Lower level classes need to implement this abstraction and that's why they depend on this abstraction.
 

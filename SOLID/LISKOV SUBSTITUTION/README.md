@@ -11,11 +11,11 @@ In other words, if a system or module uses object of parent class then that syst
 
 It is not limited to compile time substitutability but also considers run time behavioural substitutability. 
 Meaning sub class should respect the contract set by parent class. This contract can be considered in three parts:
-* Preconditions
+* Pre-conditions
   * Are the conditions that are guaranteed on entry of a routine. 
   * Overriding method of subclass needs to accept the same input parameters as superclass method. 
   * This implies subclass method can implement lesser or equal restrictive validation rules as that of superclass method.
-* Postconditions
+* Post-conditions
   * Are the conditions on routine exit, on return value.
   * Return value of a subclass method needs to comply with the same rules as the return value of superclass method.
   * Subclass method can apply stricter or same rules for values it returns as what superclass method returns.

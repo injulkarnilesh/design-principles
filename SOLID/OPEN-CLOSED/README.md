@@ -2,7 +2,7 @@
 
 As one of the most important principles for designing system units like classes, methods or modules, the Open Closed Principle is about how we should be able to make changes into these units.
 
-Changes to software systesm are inevitable. Incorporating changes should not involve rewriting the code unit, but it should involve extending behaviour with/as a new one and be using that instead of old one.
+Changes to software systems are inevitable. Incorporating changes should not involve rewriting the code unit, but it should involve extending behaviour with/as a new one and be using that instead of old one.
 
 So this principle states :
 > Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
@@ -18,6 +18,6 @@ This principle is closely related with
 * Dependency Injection
   * If dependency is injected into a class from outside, then this class need not be modified when there is a need to replace or change that dependency.
 * Programming to interfaces
-  * Extention can be done easily if we program to interfaces than direct code dependencies.
+  * Extension can be done easily if we program to interfaces than direct code dependencies.
 * Strategy Design Pattern
   * It is a good example of usage of this principle.  

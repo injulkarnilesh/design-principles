@@ -9,13 +9,13 @@ In Uncle Bob's words it is :
 
 Here we are talking about responsibility in terms of reason for a change. Reason not in terms of bug fixes or refactoring, but rather business case changes. If same class is being changed in response to multiple business case changes then that class has multiple reasons to change and so the multiple responsibilities.
 
-This princliple is closely related to other few principles:
+This principle is closely related to other few principles:
 * Cohesion
   * Dictates what belongs together, closely associated with responsibility.
 * Encapsulation
-  * Classes designed with Single Responsobility tend to hide changes behind encapsulation boundries limiting cascade of changes.
+  * Classes designed with Single Responsibility tend to hide changes behind encapsulation boundries limiting cascade of changes.
 * Dependency Injection
-  * More depencdencies the class has more likely that it is doing more that it should.
+  * More dependencies the class has more likely that it is doing more that it should.
 
 
 ## References
