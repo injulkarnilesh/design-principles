@@ -16,15 +16,15 @@ If you tell the target class in the form of commands what to do instead of enqui
 * Loose coupling between target class and calling class as calling class does not need to know internal state of target class.
 * Target class can make the same decision based on its own state maintaining the logic that acts on its state within itself.
 
-Following this principle you may end up exposing more behaviours from target classes otherwise but you get more loosely coupled class structure.
+Following this principle you may end up exposing more behaviours from target classes otherwise required, but you get more loosely coupled class structure.
 
 This principle is related with following:
 * Encapsulation
   *  Target class may not need to expose the internal state if logic that depends on it is moved into this class.
 * Cohesion 
-  * With moving logic that depends on object's state inside that class you are achieving good object oriented design by putting related state and behaviour together.
+  * With moving logic that depends on object's state inside that class, you are achieving good object oriented design by putting related state and behaviour together.
 * Law of Demeter
-  * This can be considred as extension of Tell Don't Ask principle avoiding train-wreck kind of code     
+  * This can be considered as an extension of Tell Don't Ask principle avoiding train-wreck kind of code.     
 
 
    
