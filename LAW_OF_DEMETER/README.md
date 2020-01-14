@@ -29,4 +29,7 @@ It is also known as Principle of Least Knowledge.
 Following it may require you to write some more code by exposing more methods to accept specific commands, but if you do, you will be rewarded with loosely coupled system. 
 
 For following it, you are not always required to add wrapper methods into the train-wreck objects.
-But you also can move methods into different objects and call those with appropriate parameters. 
+But you also can move methods into different objects and call those with appropriate parameters.
+
+## References
+* [Dzone Article](https://dzone.com/articles/the-genius-of-the-law-of-demeter) 
