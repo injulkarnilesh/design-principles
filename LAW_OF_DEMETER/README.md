@@ -23,8 +23,10 @@ It also encourages encapsulation by not exposing internals of the dependent clas
 
 It can be considered as an extension of *tell don't ask* principle.
 
-As it is easy to violate this principles, it is sometimes called Suggestion of Demeter.
+As it is easy to violate this principle, it is sometimes called Suggestion of Demeter.
+It is also known as Principle of Least Knowledge.
 
 Following it may require you to write some more code by exposing more methods to accept specific commands, but if you do, you will be rewarded with loosely coupled system. 
 
- 
+For following it, you are not always required to add wrapper methods into the train-wreck objects.
+But you also can move methods into different objects and call those with appropriate parameters. 
