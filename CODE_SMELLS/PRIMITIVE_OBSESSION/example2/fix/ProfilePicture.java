@@ -1,4 +1,4 @@
-package PRIMITIVE_OBSESSION.example2.fix;
+package CODE_SMELLS.PRIMITIVE_OBSESSION.example2.fix;
 
 public class ProfilePicture {
     private Url url;

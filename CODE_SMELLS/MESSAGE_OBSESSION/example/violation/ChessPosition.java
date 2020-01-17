@@ -1,4 +1,4 @@
-package MESSAGE_OBSESSION.example.violation;
+package CODE_SMELLS.MESSAGE_OBSESSION.example.violation;
 
 public class ChessPosition {
     private final int row;

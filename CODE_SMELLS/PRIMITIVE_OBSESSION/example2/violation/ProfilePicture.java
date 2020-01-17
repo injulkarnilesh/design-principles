@@ -1,4 +1,4 @@
-package PRIMITIVE_OBSESSION.example2.violation;
+package CODE_SMELLS.PRIMITIVE_OBSESSION.example2.violation;
 
 public class ProfilePicture {
     private String url;

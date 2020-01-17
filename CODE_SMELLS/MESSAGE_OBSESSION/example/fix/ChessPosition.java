@@ -1,4 +1,4 @@
-package MESSAGE_OBSESSION.example.fix;
+package CODE_SMELLS.MESSAGE_OBSESSION.example.fix;
 
 public class ChessPosition {
 

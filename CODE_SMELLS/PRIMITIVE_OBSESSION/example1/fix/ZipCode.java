@@ -1,4 +1,4 @@
-package PRIMITIVE_OBSESSION.example1.fix;
+package CODE_SMELLS.PRIMITIVE_OBSESSION.example1.fix;
 
 public class ZipCode {
     final String value;

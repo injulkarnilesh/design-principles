@@ -1,4 +1,4 @@
-package PRIMITIVE_OBSESSION.example1.violation;
+package CODE_SMELLS.PRIMITIVE_OBSESSION.example1.violation;
 
 public class Address {
     private String houseNumber;
