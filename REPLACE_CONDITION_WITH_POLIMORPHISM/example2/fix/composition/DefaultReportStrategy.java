@@ -1,4 +1,4 @@
-package REPLACE_CONDITION_WITH_POLIMORPHISM.fix.composition;
+package REPLACE_CONDITION_WITH_POLIMORPHISM.example2.fix.composition;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package REPLACE_CONDITION_WITH_POLIMORPHISM.example.violation;
+package REPLACE_CONDITION_WITH_POLIMORPHISM.example2.violation;
 
 import java.util.List;
 

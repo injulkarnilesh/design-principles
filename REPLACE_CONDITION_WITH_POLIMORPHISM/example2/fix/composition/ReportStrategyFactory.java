@@ -1,6 +1,6 @@
-package REPLACE_CONDITION_WITH_POLIMORPHISM.fix.composition;
+package REPLACE_CONDITION_WITH_POLIMORPHISM.example2.fix.composition;
 
-import REPLACE_CONDITION_WITH_POLIMORPHISM.fix.composition.StatisticsReport.ReportType;
+import REPLACE_CONDITION_WITH_POLIMORPHISM.example2.fix.composition.StatisticsReport.ReportType;
 
 import java.util.HashMap;
 import java.util.List;
