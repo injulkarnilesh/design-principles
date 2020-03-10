@@ -1,4 +1,4 @@
-#KISS
+# KISS
 KISS principle, not specific or limited to Software Development, `simply` states:
 > Keep It Simple, Stupid.
 
