@@ -36,4 +36,13 @@ There are around 4 common ways to implement Dependency Injection
   * As all the dependencies are declared in the constructor, those become explicit and well documented to whoever creates instance of this class.
   * Long list of constructor parameters acts as a good indicator of a class with too many dependencies that probably is doing more that it should.
 
-{% include_relative example/violation/Book.java %}  
+{% for file in site.static_files %}
+  {% if file.extname == ".java" %}
+     * [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
+  {% endif %}
+{% endfor %}
+
+{% highlight ruby %}
+  {% include_relative example/violation/Book.java %} 
+{% endhighlight %}
+
