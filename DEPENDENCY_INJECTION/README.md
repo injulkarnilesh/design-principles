@@ -37,12 +37,10 @@ There are around 4 common ways to implement Dependency Injection
   * Long list of constructor parameters acts as a good indicator of a class with too many dependencies that probably is doing more that it should.
 
 {% for file in site.static_files %}
-  {% if file.extname == ".java" %}
-     * [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
-  {% endif %}
+  * [{{ file.path }}]({{ site.baseurl }}{{ file.path }})
 {% endfor %}
 
-{% highlight ruby %}
+{% highlight java %}
   {% include_relative example/violation/Book.java %} 
 {% endhighlight %}
 
