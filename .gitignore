@@ -1,3 +1,6 @@
 .DS_Store
 .vscode/
 *.iml
+.idea
+_site
+.jekyll-cache
