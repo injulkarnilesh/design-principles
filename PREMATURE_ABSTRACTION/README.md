@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Premature Abstraction
 Abstraction is a great programming concept that helps you to hide complexities of implementation from client and extract out common code to avoid duplication.
 

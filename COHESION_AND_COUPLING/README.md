@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Cohesion And Coupling
 While designing a system, aim for high cohesion and loose coupling in the system.
 

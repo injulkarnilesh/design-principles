@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Encapsulation
 In Object Oriented Programming, Objects consist of behaviour and state.
 

@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Law of Demeter
 This design principle is about reducing coupling between classes.
 

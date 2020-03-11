@@ -1,7 +1,6 @@
 ---
 title: Code Smells
 has_children: true
-parent: Design Principles
 ---
 
 # Code Smells

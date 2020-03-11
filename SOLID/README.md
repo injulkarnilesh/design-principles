@@ -1,7 +1,6 @@
 ---
 title: SOLID
 has_children: true
-parent: Design Principles
 ---
 
 # SOLID

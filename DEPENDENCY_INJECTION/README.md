@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Dependency Injection
 A design principle used to **decouple object creation from object usage**.
 

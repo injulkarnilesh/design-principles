@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Replace Conditional With Polymorphism
 If you have code that splits a flow or acts differently based on some condition with limited values, with constructs like `if` or `switch` statements,
 then that code naturally violates Open Closed principle because to add a new conditional flow you will have to modify that class.

@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # You Aren't Gonna Need It
 This is more of a Software Engineering principle that a design principle.
 

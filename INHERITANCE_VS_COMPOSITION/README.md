@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Inheritance Vs Composition
 This design principle simply states 
 > Prefer Composition over Inheritance for reusing the code.

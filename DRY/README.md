@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # DRY
 DRY stands for "Don't Repeat Yourself".
 Here repeating is not about repeating a code but about duplicating business logic or business idea.
