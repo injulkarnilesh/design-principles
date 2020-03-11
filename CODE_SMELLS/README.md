@@ -1,3 +1,7 @@
+---
+title: Code Smells
+has_children: true
+---
 # Code Smells
 Code smells are well known anti-patterns, wrong usages of programming constructs.
 
