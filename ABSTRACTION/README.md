@@ -1,7 +1,3 @@
----
-parent: Design Principles
----
-
 # Abstraction
 Abstraction as an Object Oriented Programming concept dealing with hiding implementation details from the client code.
 
