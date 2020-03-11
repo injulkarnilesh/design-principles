@@ -1,3 +1,7 @@
+---
+parent: Design Principles
+---
+
 # Tell Don't Ask
 This design principles is about reducing coupling between classes 
 and maintaining proper encapsulation and cohesion of classes.

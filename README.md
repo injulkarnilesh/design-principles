@@ -1,3 +1,8 @@
+---
+title: Design Principles
+has_children: true
+---
+
 # Design Principles
 
 An attempt to list down own understanding of few of the Object Oriented Programming Design principles.

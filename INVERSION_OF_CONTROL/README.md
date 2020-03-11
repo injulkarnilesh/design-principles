@@ -1,3 +1,7 @@
+---
+parent: Design Principles
+---
+
 # Inversion Of Control
 A design principle heavily used by frameworks to take control of the flow inside applications built on top of them.
 
