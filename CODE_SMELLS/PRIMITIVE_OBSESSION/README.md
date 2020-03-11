@@ -1,3 +1,7 @@
+---
+parent: Code Smells
+---
+
 # Primitive Obsession
 This Code Smell is easy to fall for especially for lazy developers, means for all of us.
 

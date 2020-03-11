@@ -1,3 +1,7 @@
+---
+parent: Code Smells
+---
+
 # Type Checking
 One of the reasons you need type checking is before down casting, 
 and as down casting is itself a code smell and should be avoided, we can get rid of this reason for type checking.

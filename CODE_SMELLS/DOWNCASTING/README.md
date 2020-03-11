@@ -1,6 +1,7 @@
 ---
 parent: Code Smells
 ---
+
 # Downcasting
 Downcasting is when you cast an object from super type to subtype. 
 

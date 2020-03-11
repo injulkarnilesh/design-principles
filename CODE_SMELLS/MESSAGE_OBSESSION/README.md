@@ -1,3 +1,7 @@
+---
+parent: Code Smells
+---
+
 # Message Obsession
 Not so well known code smell, which can be seen when avoiding/fixing primitive obsession is taken too far and many domain specific methods are added to classes.
 

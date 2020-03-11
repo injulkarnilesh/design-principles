@@ -1,3 +1,7 @@
+---
+parent: Code Smells
+---
+
 # God Object
 This design smell violates most of the design principles out there.
 Such a design is just an opposite of `Single Responsibility`, `Loose Coupling` and `High Cohesion`.
