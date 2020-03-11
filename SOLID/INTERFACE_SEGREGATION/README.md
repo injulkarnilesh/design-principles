@@ -1,3 +1,8 @@
+---
+parent: SOLID
+nav_order: 4
+---
+
 # Interface Segregation Principle
 This principle is fairly straight forward and easy to follow.
 

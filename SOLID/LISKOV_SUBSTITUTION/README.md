@@ -1,3 +1,8 @@
+---
+parent: SOLID
+nav_order: 3
+---
+
 # Liskov Substitution Principle
 This principle is about inheritance, about substitutability of objects with parent child relationship.
 

@@ -1,3 +1,8 @@
+---
+parent: SOLID
+nav_order: 1
+---
+
 # Single Responsibility Principle
 
 This is a simple, important yet most missed design principle. This is about defining responsibilities of code units like Classes or Modules.

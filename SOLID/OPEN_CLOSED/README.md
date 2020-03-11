@@ -1,3 +1,8 @@
+---
+parent: SOLID
+nav_order: 2
+---
+
 # Open Closed Principles
 
 As one of the most important principles for designing system units like classes, methods or modules, the Open Closed Principle is about how we should be able to make changes into these units.

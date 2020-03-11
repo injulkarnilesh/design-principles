@@ -1,3 +1,8 @@
+---
+parent: SOLID
+nav_order: 5
+---
+
 # Dependency Inversion
 This principle is about decoupling and modularization.
 

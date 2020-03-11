@@ -1,3 +1,8 @@
+---
+title: SOLID
+has_children: true
+---
+
 # SOLID
 
 SOLID is an acronym of following five design principles.
