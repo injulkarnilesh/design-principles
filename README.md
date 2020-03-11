@@ -1,7 +1,3 @@
----
-nav_order: 1
----
-
 # Design Principles
 
 An attempt to list down own understanding of few of the Object Oriented Programming Design principles.
