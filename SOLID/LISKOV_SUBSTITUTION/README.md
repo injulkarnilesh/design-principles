@@ -35,3 +35,5 @@ Meaning sub class should respect the contract set by parent class. This contract
 * [Stackify blog](https://stackify.com/solid-design-liskov-substitution-principle/)
 * [Hackernoon blog](https://hackernoon.com/liskov-substitution-principle-a982551d584a)
 
+{% include codelink.html examples="1" %}
+

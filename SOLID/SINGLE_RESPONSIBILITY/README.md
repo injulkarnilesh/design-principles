@@ -26,3 +26,5 @@ This principle is closely related to other few principles:
 ## References
 * [Clean code blog](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 * [Hackernoon blog](https://hackernoon.com/you-dont-understand-the-single-responsibility-principle-abfdd005b137)
+
+{% include codelink.html examples="1" %}

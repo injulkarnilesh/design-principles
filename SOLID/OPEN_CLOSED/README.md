@@ -26,3 +26,5 @@ This principle is closely related with
   * Extension can be done easily if we program to interfaces than direct code dependencies.
 * Strategy Design Pattern
   * It is a good example of usage of this principle.  
+  
+{% include codelink.html examples="2" %}  

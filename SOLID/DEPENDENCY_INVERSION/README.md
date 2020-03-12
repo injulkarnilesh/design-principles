@@ -25,3 +25,5 @@ It is inverted as:
 
 ## References
 * [Hackernoon Blog](https://hackernoon.com/dependency-inversion-principle-e402e5b69e70)
+
+{% include codelink.html examples="1" %}

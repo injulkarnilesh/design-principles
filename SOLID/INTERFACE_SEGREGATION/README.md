@@ -14,3 +14,5 @@ It is about how to do abstraction, how to design interfaces and suggests that it
 Idea is that no class should be forced to implement a method that it does not support only because it implements some interface.
 
 These smaller, very specific interfaces sometimes are called Role Interfaces.
+
+{% include codelink.html examples="1" %}
