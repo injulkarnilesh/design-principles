@@ -1,4 +1,4 @@
-package SOLID.SINGLE_RESPONSIBILITY.examples.violation;
+package SOLID.SINGLE_RESPONSIBILITY.example.violation;
 
 import java.util.HashMap;
 import java.util.Map;

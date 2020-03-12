@@ -1,4 +1,4 @@
-package SOLID.SINGLE_RESPONSIBILITY.examples.fix;
+package SOLID.SINGLE_RESPONSIBILITY.example.fix;
 
 public interface EmployeeDao {
     Long save(Employee e);
