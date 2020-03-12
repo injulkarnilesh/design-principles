@@ -13,4 +13,4 @@ Implementation details are not required to be known by client to use that functi
 
 Abstraction, when done right, provides us loose coupling, as client is unaware of implementation insides.
 
-{% include codelink.html %}
+{% include codelink.html examples="1" %}

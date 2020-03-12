@@ -1,2 +1,8 @@
 <h3>Code</h3>
-<a href="https://github.com/injulkarnilesh/design-principles/tree/master{{page.url}}" target="_blank">Code Examples</a>
+{% if item.version == 2 %}
+  <a href="https://github.com/injulkarnilesh/design-principles/tree/master{{ page.url | replace: 'README.html' '' }}example1" target="_blank">Code Example 1</a>
+  <br/>
+  <a href="https://github.com/injulkarnilesh/design-principles/tree/master{{ page.url | replace: 'README.html' '' }}/example2" target="_blank">Code Example 2</a>
+{% else %}
+  <a href="https://github.com/injulkarnilesh/design-principles/tree/master{{ page.url | replace: 'README.html' '' }}/example" target="_blank">Code Example</a>
+{% endif %}

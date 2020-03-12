@@ -33,3 +33,5 @@ But you also can move methods into different objects and call those with appropr
 
 ## References
 * [Dzone Article](https://dzone.com/articles/the-genius-of-the-law-of-demeter) 
+
+{% include codelink.html examples="2" %}
