@@ -22,3 +22,5 @@ Mostly you would end-up having small value objects to replace these primitives.
 
 ## References
 * [DZone Article](https://dzone.com/articles/code-quality-fighting-primitive-obsession-code-sme-1)  
+
+{% include codelink.html examples="2" %}

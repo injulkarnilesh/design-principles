@@ -15,3 +15,5 @@ Such a conditional is yet another well known code smell.
 
 ## References
 * [Nat Pryce Article](http://www.natpryce.com/articles/000816.html)
+
+{% include codelink.html examples="1" %}

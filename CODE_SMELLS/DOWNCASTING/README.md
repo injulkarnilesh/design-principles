@@ -19,3 +19,4 @@ Impact of downcasting is not only that it can fail at runtime, which can be avoi
 
 At some places, like libraries for serialization/de-serialization or equals methods, you might need downcasting; but in other core business level code places, you should avoid it.
 
+{% include codelink.html examples="1" %}

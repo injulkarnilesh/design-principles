@@ -19,3 +19,5 @@ Drawbacks of such a design involve:
 * Flow gets complicated as all go through the same God Object.
 * In Object Oriented Programming we try to model real world into Objects. 
 As God does not exists in real world, there shouldn't God object in any system. 
+
+{% include codelink.html examples="1" %}

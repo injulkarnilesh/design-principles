@@ -21,3 +21,5 @@ your code would require changes when new types (so the new conditions) are added
 * Your type checking conditionals can be replaced with polymorphism with right abstraction.
 
 Such a well known feature can act as great hint for design problems that need fixing.
+
+{% include codelink.html %}
