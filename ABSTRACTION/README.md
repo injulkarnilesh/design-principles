@@ -12,3 +12,5 @@ Interfaces are a usual way of achieving abstraction as Interfaces only define th
 Implementation details are not required to be known by client to use that functionality.
 
 Abstraction, when done right, provides us loose coupling, as client is unaware of implementation insides.
+
+{% include codelink.html %}
