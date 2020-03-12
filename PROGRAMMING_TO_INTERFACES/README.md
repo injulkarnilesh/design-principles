@@ -18,3 +18,5 @@ Advantages of Programming to Interfaces are manifold
 * Loose coupling between client code and the implementations.
 * Implementation can be changed to do things differently or different implementation could be used without client even noticing it.
 * Testability is achieved as implementation can be easily mocked. Helps with TDD to write a tests without actual behaviour yet.
+
+{% include codelink.html examples="1" %}

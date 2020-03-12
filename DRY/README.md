@@ -26,3 +26,5 @@ Such a code is very soon going to be a pain to maintain.
 
 ### References
 * [The Valuable Blog Post](https://thevaluable.dev/dry-principle-cost-benefit-example/)
+
+{% include codelink.html examples="1" %}

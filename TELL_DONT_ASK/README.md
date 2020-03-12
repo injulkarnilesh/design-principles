@@ -26,5 +26,6 @@ This principle is related with following:
 * Law of Demeter
   * This can be considered as an extension of Tell Don't Ask principle avoiding train-wreck kind of code.     
 
+{% include codelink.html examples="1" %}
 
    

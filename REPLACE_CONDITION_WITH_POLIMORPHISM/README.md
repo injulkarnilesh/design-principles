@@ -23,3 +23,5 @@ This principle has a slight variation where Composition is used instead of Polym
 Replace Conditional With State/Strategy Pattern.
 When you have only single method that varies behaviour with condition or there is not explicit `is-a` relationship in hierarchy you might create, 
 then consider composition over inheritance.
+
+{% include codelink.html examples="2" %}

@@ -19,3 +19,5 @@ but it does not stop you from considering those changes to make you existing cod
 
 It goes with the saying
 > The best code is no code at all.  
+
+{% include codelink.html examples="1" %}

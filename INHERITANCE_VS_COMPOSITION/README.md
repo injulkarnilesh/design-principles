@@ -30,3 +30,5 @@ On the other hand, Composition `has` following perks:
 * Unit testing becomes easier with composition as mocking can be easily done.
 
 So, remember to use Inheritance for is-a relationship and composition for code reuse. 
+
+{% include codelink.html examples="1" %}

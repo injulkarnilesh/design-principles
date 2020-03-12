@@ -23,3 +23,5 @@ So if you extracting abstract hierarchy for sake of `DRY` code, think twice.
 If you understand `YAGNI`, you would rather focus on solving current specific problem at hand than trying to generalize it for future need which may never be required.
 
 If code reuse is your aim, then please `Prefer Composition Over Inheritance`.
+
+{% include codelink.html examples="1" %}

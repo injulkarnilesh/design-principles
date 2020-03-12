@@ -26,3 +26,5 @@ There are multiple principles that come handy for designing a system with lower 
 
 Higher coupling means modules or code pieces are coupled with each other where they should/need not be.
 Higher coupling makes changes in system difficult or makes changes propagate to multiple places, even unrelated places.
+
+{% include codelink.html examples="1" %}

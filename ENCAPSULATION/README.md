@@ -13,3 +13,5 @@ This is achieved by using most restrictive access modifiers to the fields of cla
 
 It is always recommended to start with most restrictive access modifiers for fields, classes and without any access methods. 
 Then, as and when access methods are required those are to be added.
+
+{% include codelink.html examples="2" %}

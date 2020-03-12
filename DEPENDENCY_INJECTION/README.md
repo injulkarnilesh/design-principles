@@ -36,3 +36,4 @@ There are around 4 common ways to implement Dependency Injection
   * As all the dependencies are declared in the constructor, those become explicit and well documented to whoever creates instance of this class.
   * Long list of constructor parameters acts as a good indicator of a class with too many dependencies that probably is doing more that it should.
 
+{% include codelink.html examples="1" %}

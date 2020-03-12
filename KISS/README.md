@@ -35,3 +35,5 @@ A quote from the book says :
 —Martin Fowler
 
 Try to aim for `Keep it 'Stupid Simple'`, but even if you achieve simple that's great as well.
+
+{% include codelink.html examples="1" %}

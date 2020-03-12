@@ -37,3 +37,5 @@ Frameworks like Spring rely on this principle to build loosely coupled, extensib
 
 # References
 * [Stackoverflow Question](https://stackoverflow.com/questions/6550700/inversion-of-control-vs-dependency-injection)      
+
+{% include codelink.html examples="1" %}

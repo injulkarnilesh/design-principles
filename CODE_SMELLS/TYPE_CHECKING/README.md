@@ -22,4 +22,4 @@ your code would require changes when new types (so the new conditions) are added
 
 Such a well known feature can act as great hint for design problems that need fixing.
 
-{% include codelink.html %}
+{% include codelink.html examples="1" %}
