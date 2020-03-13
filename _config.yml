@@ -2,4 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "Design Principles On GitHub":
     - "//github.com/injulkarnilesh/design-principles"
-footer_content: "Maintained by <a href=\"https://www.linkedin.com/in/injulkarnilesh/\">Nilesh Injulkar</a>. Distributed by an <a href=\"https://github.com/injulkarnilesh/design-principles/blob/master/LICENSE\">Apache License 2.0.</a>"
+footer_content: "Maintained by <a href=\"https://www.linkedin.com/in/injulkarnilesh/\" target=\"_blank\">Nilesh Injulkar</a>. Distributed by an <a href=\"https://github.com/injulkarnilesh/design-principles/blob/master/LICENSE\">Apache License 2.0.</a>"
